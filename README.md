@@ -1,6 +1,6 @@
 # ElectroholicsTinkerEve17
 Friday Jan 25
-
+### Session on Introduction to Image Analysis and Computer Vision .
 1. Clone the repo:
   ```
 git clone https://github.com/anushkab/ElectroholicsTinkerEve17.git
@@ -21,7 +21,6 @@ python opencv_tutorial_02.py -i tetris-shapes.png
 python opencv_tutorial_02.py -i tetris_blocks.png
 ```
 
-Session on Introduction to Image Analysis and Computer Vision .
 Link to Session Slide :
 https://docs.google.com/presentation/d/1oEaIGp-qkndjBo9TmXvwqq23Mhotl_WjDuyzVmftRbg/edit?usp=sharing
 
