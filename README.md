@@ -2,10 +2,14 @@
 Friday Jan 25
 
 1. Clone the repo:
-`git clone https://github.com/anushkab/ElectroholicsTinkerEve17.git
+  ```
+git clone https://github.com/anushkab/ElectroholicsTinkerEve17.git
+  ```
 
 2. Change the directory:
-`cd ElectroholicsTinkerEve17
+  ```
+cd ElectroholicsTinkerEve17
+  ```
 
 3. Install Python 3.6, scikit-image, and the Jupyter notebook.
 
