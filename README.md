@@ -22,6 +22,10 @@ python opencv_tutorial_02.py -i tetris_blocks.png
 ```
 
 Session on Introduction to Image Analysis and Computer Vision .
+Link to Session Slide :
+https://docs.google.com/presentation/d/1oEaIGp-qkndjBo9TmXvwqq23Mhotl_WjDuyzVmftRbg/edit?usp=sharing
+
+
 Resource Courtesy : https://github.com/scikit-image/skimage-tutorials/blob/master/preparation.md
 
 
